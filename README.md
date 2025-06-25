@@ -1,5 +1,3 @@
-# dio_az104
-Microsoft - Azure Administrator Certification (AZ-104)
 Gerenciamento de Máquinas Virtuais no Microsoft Azure
 Bem-vindo ao meu repositório! Neste projeto, compartilho minha jornada e os conhecimentos adquiridos ao aprender a gerenciar máquinas virtuais no Microsoft Azure. O objetivo deste repositório é fornecer um guia completo e de fácil compreensão sobre o processo de criação, configuração e administração de VMs no Azure.
 
@@ -23,8 +21,8 @@ Copiar
 Editar
 /images                # (Opcional) Capturas de tela do processo de configuração
 README.md             # Este arquivo de documentação principal
-docs/                  # Documentação detalhada sobre o processo de configuração
-resources/             # Materiais complementares e links úteis
+/docs/                 # Documentação detalhada sobre o processo de configuração
+/resources/            # Materiais complementares e links úteis
 1. README.md
 Este arquivo contém a visão geral do projeto, objetivos, desafios e recursos utilizados para alcançar as metas.
 
@@ -41,7 +39,7 @@ GitHub Quick Start
 GitHub Markdown - Guia específico para Markdown no GitHub
 
 Como Usar Este Repositório
-Este repositório contém tudo o que você precisa para entender e aplicar os conceitos de gerenciamento de máquinas virtuais no Azure. Para começar, basta explorar o arquivo README.md e depois consultar a pasta docs/ para mais detalhes técnicos.
+Este repositório contém tudo o que você precisa para entender e aplicar os conceitos de gerenciamento de máquinas virtuais no Azure. Para começar, basta explorar o arquivo README.md e depois consultar a pasta /docs/ para mais detalhes técnicos.
 
 Se você encontrar algo de útil ou tiver sugestões para melhorar, fique à vontade para abrir uma issue ou até mesmo enviar um pull request com melhorias!
 
