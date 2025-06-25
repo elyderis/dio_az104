@@ -1,75 +1,31 @@
-Gerenciamento de Máquinas Virtuais no Microsoft Azure
-O que é uma Máquina Virtual (VM)?
-Uma máquina virtual (VM) é um recurso de computação no Azure que emula um computador físico. Ela permite que você execute sistemas operacionais e aplicativos de maneira isolada, como se fosse um computador local.
+# Microsoft - Azure Administrator Certification (AZ-104) 🌐💻
+## Detalhes do bootcamp - DIO 🎓🚀
+Um guia prático e rápido para ser o guardião da cloud nas empresas! ☁️🔐
+Torne-se administrador de cloud certificado pela Microsoft com um guia de todo conteúdo do exame mais a possibilidade de realizar a prova gratuitamente com voucher de presente! Aprenda desde identidade e governança até armazenamento, redes, máquinas virtuais e monitoramento de recursos, com foco na certificação AZ-104.
 
-Componentes principais de uma VM
-Imagem do sistema operacional: Escolha o sistema operacional (Windows, Ubuntu, etc.) para a VM.
+Destaque o seu perfil para ser encontrado por recrutadores de grandes empresas através da Talent Match (plataforma de contratação da DIO) e conecte-se com MPVs da Microsoft em conteúdos teóricos, práticos e mentorias ao vivo. 🚀🔍
 
-Tamanho da VM: Define a capacidade de CPU e memória, impactando no desempenho e no custo da VM.
+## Atividades:
 
-Disco do sistema operacional: O disco principal que armazena o sistema operacional.
+Mentorias (Live) 🎥: Momento em que você irá se inspirar nos talentos das empresas mais inovadoras do mundo, podendo interagir ao longo da live e até fazer perguntas sobre carreira e tecnologia.
 
-Discos adicionais: Discos extras que podem ser anexados à VM.
+Desafio de Código 💻: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
 
-Rede virtual (VNet) e sub-rede: A rede onde a VM estará conectada.
+Desafio de Projeto 🏗️: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.
 
-Grupo de segurança de rede (NSG): Define as regras de firewall para controlar o tráfego de rede da VM.
+Ranking 🏆: Cada bootcamp possui um ranking com premiações exclusivas, onde você pontua de acordo com as interações que você realiza em Fórum e Rooms, dos acertos que você tem em questionários e da qualidade do código que você desenvolveu nos desafios.
 
-IP público: Se necessário, configura um IP público para permitir acesso externo.
+## Ferramentas para o seu aprendizado: 🧰📘
 
-Passo a passo para criação de uma VM no portal do Azure
-Acessar o portal: Vá para https://portal.azure.com.
+Fórum 💬: Espaço para você interagir e tirar suas dúvidas técnicas com a nossa comunidade.
 
-Criar a VM: No menu, vá até "Máquinas Virtuais" > "Criar".
+Rooms 🏢: Espaço para você conversar com outros matriculados no bootcamp e aumentar o seu networking.
 
-Configurar a VM: Preencha as informações necessárias:
+Matriculados 👥: Saiba quem está participando da mesma jornada educacional que você.
 
-Nome da VM
+Certificado 🎓: Baixe e compartilhe os certificados de todas as suas conquistas ao longo desse bootcamp.
 
-Região
+## Precisa de ajuda? 🤔💡
+Caso tenha alguma dúvida, queria relatar algum erro na plataforma ou até uma sugestão, você pode acessar a nossa central de dúvidas e também solicitar ajuda para o nosso suporte clicando no link abaixo:
 
-Sistema Operacional
-
-Credenciais de Acesso (usuário e senha)
-
-Escolher o tamanho da VM: Selecione um tamanho adequado para sua VM. Por exemplo, para testes rápidos, você pode escolher o tamanho B1s.
-
-Configurar discos, rede e regras de acesso: Ajuste as configurações de rede, disco e segurança.
-
-Revisar e Criar: Verifique as configurações e clique em Criar.
-
-Exemplo com Azure CLI
-Se você preferir usar a Azure CLI para criar uma VM, basta executar o comando abaixo:
-
-bash
-Copiar
-Editar
-az vm create \
-  --resource-group meuGrupoDeRecursos \
-  --name minhaVM \
-  --image UbuntuLTS \
-  --size Standard_B1s \
-  --admin-username meuUsuario \
-  --admin-password minhaSenha123 \
-  --vnet-name minhaVNet \
-  --subnet minhaSubRede
-Esse comando cria uma máquina virtual com as seguintes características:
-
-Imagem: Ubuntu LTS.
-
-Tamanho: Standard_B1s.
-
-Usuário administrador: meuUsuario.
-
-Senha: minhaSenha123.
-
-Rede virtual (VNet): minhaVNet.
-
-Sub-rede: minhaSubRede.
-
-Dicas adicionais
-Segurança: Sempre configure um Grupo de Segurança de Rede (NSG) para controlar o tráfego da sua VM.
-
-Backup: Considere configurar backup automático para garantir que seus dados estejam seguros.
-
-Desligamento automático: Configure um desligamento automático para economizar recursos quando a VM não estiver em uso.
+https://digitalinnovationone.atlassian.net/servicedesk/customer/portal/16/group/90
