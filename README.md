@@ -1,5 +1,5 @@
 # Microsoft - Azure Administrator Certification (AZ-104) 🌐💻
-## Detalhes do bootcamp - DIO 🎓🚀
+## Detalhes do bootcamp 🎓🚀
 Um guia prático e rápido para ser o guardião da cloud nas empresas! ☁️🔐
 Torne-se administrador de cloud certificado pela Microsoft com um guia de todo conteúdo do exame mais a possibilidade de realizar a prova gratuitamente com voucher de presente! Aprenda desde identidade e governança até armazenamento, redes, máquinas virtuais e monitoramento de recursos, com foco na certificação AZ-104.
 
