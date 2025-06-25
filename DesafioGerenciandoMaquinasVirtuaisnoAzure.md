@@ -33,15 +33,12 @@ Documentações Oficiais
 
 ## Materiais Complementares sobre GitHub 
 
-    [GitHub Quick Start - Repositório com Link para Aulas de Git e GitHub](https://github.com/digitalinnovationone/github-quickstart)
+[GitHub Quick Start - Repositório com Link para Aulas de Git e GitHub](https://github.com/digitalinnovationone/github-quickstart)
         
-    GitBook: Formação GitHub Certification - Material textual sobre GitHub
-        https://www.gitbook.com
-        
-    Documentação do GitHub - Guia completo para uso do GitHub
-        https://docs.github.com
-        
-    GitHub Markdown - Guia específico para Markdown no GitHub
-        https://guides.github.com/features/mastering-markdown/
+[GitBook: Formação GitHub Certification - Material textual sobre GitHub](https://www.gitbook.com)
 
+[Documentação do GitHub - Guia completo para uso do GitHub](https://docs.github.com)
+        
+[GitHub Markdown - Guia específico para Markdown no GitHub](https://guides.github.com/features/mastering-markdown/)
+        
 Bons estudos!
