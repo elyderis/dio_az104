@@ -4,7 +4,8 @@ Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore
 Descrição do Desafio
 
 Neste laboratório prático, você irá aprender a configurar e gerenciar o monitoramento de recursos no Microsoft Azure, com foco em máquinas virtuais (VMs). O objetivo é demonstrar como manter visibilidade, controle e resposta proativa sobre eventos críticos no ambiente de nuvem, como a exclusão de uma VM. Como entregável, o desafio proposto é a criação de um repositório contendo resumos, anotações e dicas sobre o uso da Azure, servindo como material de apoio para estudos e futuras implementações.
-Objetivos de Aprendizagem 
+
+# Objetivos de Aprendizagem 
 
 ## Ao concluir este desafio, você será capaz de: 
 
