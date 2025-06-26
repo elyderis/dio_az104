@@ -27,9 +27,9 @@ Para concluir este desafio, você deverá:
     Enviar o link do seu repositório e uma breve descrição clicando no botão “Entregar Projeto” 
 
 ## Recursos Úteis 
-Documentações Oficiais 
+Documentações Oficiais
 
-    Gerenciar máquinas virtuais do Azure - Artigo no Microsoft Learning
+[Gerenciar máquinas virtuais do Azure - Artigo no Microsoft Learning](https://learn.microsoft.com/pt-br/system-center/vmm/manage-azure-vms?view=sc-vmm-2022)
 
 ## Materiais Complementares sobre GitHub 
 
