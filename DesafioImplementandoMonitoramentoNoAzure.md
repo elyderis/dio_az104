@@ -3,7 +3,7 @@
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui, aplique os conhecimentos adquiridos nas aulas e documente sua experiência para demonstrar sua compreensão dos temas discutidos.
 Descrição do Desafio
 
-Neste laboratório prático, você irá aprender a gerenciar máquinas virtuais no Microsoft Azure. Como entregável, o desafio proposto é a criação de um repositório contendo resumos, anotações e dicas sobre o uso da Azure, servindo como material de apoio para estudos e futuras implementações.
+Neste laboratório prático, você irá aprender a configurar e gerenciar o monitoramento de recursos no Microsoft Azure, com foco em máquinas virtuais (VMs). O objetivo é demonstrar como manter visibilidade, controle e resposta proativa sobre eventos críticos no ambiente de nuvem, como a exclusão de uma VM. Como entregável, o desafio proposto é a criação de um repositório contendo resumos, anotações e dicas sobre o uso da Azure, servindo como material de apoio para estudos e futuras implementações.
 Objetivos de Aprendizagem 
 
 ## Ao concluir este desafio, você será capaz de: 
@@ -29,7 +29,7 @@ Para concluir este desafio, você deverá:
 ## Recursos Úteis 
 Documentações Oficiais
 
-[Gerenciar máquinas virtuais do Azure - Artigo no Microsoft Learning](https://learn.microsoft.com/pt-br/system-center/vmm/manage-azure-vms?view=sc-vmm-2022)
+[Configurar o monitoramento de máquinas virtuais - Artigo no Microsoft Learning](https://learn.microsoft.com/pt-br/training/modules/configure-monitoring-virtual-machines/)
 
 ## Materiais Complementares sobre GitHub 
 
